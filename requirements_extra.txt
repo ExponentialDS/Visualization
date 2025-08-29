@@ -1,0 +1,12 @@
+hvplot
+holoviews
+panel
+datashader
+geopandas
+folium
+networkx
+pyvis
+plotnine
+plotly
+kagglehub
+
